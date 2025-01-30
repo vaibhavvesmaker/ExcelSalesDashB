@@ -1,4 +1,4 @@
-** Clothing Store Sales Dashboard**  
+**Clothing Store Sales Dashboard**  
 *An Excel-Based Data Analysis Project*  
 
 ---
